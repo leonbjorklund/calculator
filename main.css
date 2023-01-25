@@ -66,3 +66,8 @@ button {
   border-radius: 5px;
   font-size: 32px;
 }
+
+.grid-item:hover {
+  background-color: rgb(155, 155, 155);
+  transition: 0.2s;
+}
